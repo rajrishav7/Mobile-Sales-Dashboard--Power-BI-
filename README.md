@@ -51,4 +51,12 @@ The dashboard is tailored to answer key business questions:
 - ✅ **Sales Heatmap by City** to visualize geographic performance.
 - ✅ **Dynamic Filters** to personalize analytics across dimensions.
 - ✅ **Revenue per Transaction Metric** for improved profitability tracking.
+ 
+ ## Video
+ 
+ 
+
+
+https://github.com/user-attachments/assets/3b1a6817-80de-42ce-88a5-f118073660bb
+
 
